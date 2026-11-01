@@ -1,167 +1,91 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Hi+%F0%9F%91%8B+I'm+Emmanuel+Ariyo;Creative+Dev+%26+AI+Engineer;Founder+of+Axiveri+%F0%9F%A4%97;Building+from+Nigeria+%F0%9F%87%B3%F0%9F%87%AC" alt="Typing SVG" />
+<a href="https://ememzyvisuals.vercel.app"><img src="assets/banner.gif" alt="Pixel art: Emmanuel at his desk at night, building speech AI" width="100%"></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ememzyvisuals&label=Profile+Views&color=000000&style=for-the-badge&font=Montserrat" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Ememzyvisuals?label=Followers&style=for-the-badge&color=000000&labelColor=000000" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/Ememzyvisuals?label=Total+Stars&style=for-the-badge&color=000000&labelColor=000000" />
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ememzyvisuals.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ememzyvisuals.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Ariyo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ememzyvisuals)
-[![X](https://img.shields.io/badge/X-@ememzyvisuals-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ememzyvisuals)
-[![Kaggle](https://img.shields.io/badge/Kaggle-ememzyvisuals-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ememzyvisuals)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Axiveri-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Axiveri)
+<a href="https://ememzyvisuals.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3200&pause=900&color=7EE787&center=true&vCenter=true&width=760&height=40&lines=Speech+AI+for+African+languages;Text+to+speech+%C2%B7+speech+recognition+%C2%B7+translation;Open+models+on+Hugging+Face+under+Axiveri;Full-stack+products+and+browser+games" alt="What I build"></a>
 
 <br/>
 
-<!-- Section headers as SVG so they use Montserrat -->
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=22&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=400&height=45&lines=👨🏾‍💻+About+Me" alt="About Me" />
+<a href="https://ememzyvisuals.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ememzyvisuals.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://huggingface.co/Axiveri"><img src="https://img.shields.io/badge/Hugging_Face-Axiveri-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Axiveri on Hugging Face"></a>
+<a href="https://www.linkedin.com/in/ememzyvisuals"><img src="https://img.shields.io/badge/LinkedIn-Emmanuel_Ariyo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/ememzyvisuals"><img src="https://img.shields.io/badge/X-@ememzyvisuals-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.kaggle.com/ememzyvisuals"><img src="https://img.shields.io/badge/Kaggle-ememzyvisuals-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+<a href="mailto:ememzyvisuals@gmail.com"><img src="https://img.shields.io/badge/Email-ememzyvisuals@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
-- 🧠 Self-taught **Creative Software Developer & AI Systems Engineer**
-- 🇳🇬 Based in **Nigeria**
-- 🤗 Founder of **[Axiveri](https://huggingface.co/Axiveri)** — African AI Research
-- 🔨 Currently building **Africlaude-7B v2** · **NaijaVox-V2** · **ClaudGPT**
-- 💼 Open to **Freelance** · **Remote Roles** · **AI Research Collabs**
-- 📬 **ememzyvisuals@gmail.com**
+## About
 
----
+I'm a Machine Learning Engineer on the speech AI team at **PlotWeaver** and the founder of **[Axiveri](https://huggingface.co/Axiveri)**. I build voices that sound like people from Lagos, Kano and Enugu, not like a reader: text to speech with emotion and expression, speech recognition that copes with real, code-switched speech, and translation between English, Yoruba, Hausa, Igbo and Nigerian Pidgin.
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=22&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=400&height=45&lines=🏗️+Projects" alt="Projects" />
-</div>
+Outside the models I build full-stack products and small browser games. Self-taught, based in Nigeria, open to collaborations, research partnerships and serious products.
 
-> ⭐ **If any of these projects help or inspire you, drop a star — it means a lot!**
+## Open models
 
-**🌐 Web Applications**
+| Model | What it does | Link |
+|---|---|---|
+| **NaijaVox 2.0** | Speech recognition for Yoruba, Hausa, Igbo, Pidgin and Nigerian English, including speech that switches between them | [Model](https://huggingface.co/Axiveri/NaijaVox-2.0) · [Demo](https://huggingface.co/spaces/Axiveri/Naijavox-Demo) |
+| **WazobiaVoice** | Multilingual text to speech and zero-shot voice cloning, with Yoruba tone marks handled properly | [Model](https://huggingface.co/Axiveri/WazobiaVoice) |
+| **Renpiper Pidgin** | A small, fast Nigerian Pidgin voice with an ONNX build for modest hardware | [Model](https://huggingface.co/Axiveri/Renpiper-pcm-V1) |
+| **Africlaude-7B** | An open language model tuned for African context, with AfriclaudeBench to measure it | [Model](https://huggingface.co/Axiveri/Africlaude-7B) |
+| **AfriVision** | A FLUX LoRA trained on AfriVision-30K, images of African people, places and culture | [Model](https://huggingface.co/Axiveri/AfriVision-Base) · [Dataset](https://huggingface.co/datasets/Axiveri/AfriVision-30K) |
 
-| Project | Description | GitHub | Live |
-|---------|-------------|--------|------|
-| **ClaudGPT** | Multi-agent AI dev platform — 9 AI agents that build full-stack apps | [![GitHub](https://img.shields.io/badge/Code-000?style=flat-square&logo=github)](https://github.com/Ememzyvisuals/ClaudGPT) | [![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://claudgpt.vercel.app) |
-| **AethLife** | Intelligent personal life OS — habits, workouts & energy via AI | [![GitHub](https://img.shields.io/badge/Code-000?style=flat-square&logo=github)](https://github.com/Ememzyvisuals/AethLife) | [![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://aethlife.vercel.app) |
-| **FlonexTV** | Streaming + AI-powered Academy platform | [![GitHub](https://img.shields.io/badge/Code-000?style=flat-square&logo=github)](https://github.com/Ememzyvisuals/FlonexTV) | [![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://flonextv.vercel.app) |
-| **NaijaPrep** | Offline-first JAMB/WAEC/NECO exam prep PWA | [![GitHub](https://img.shields.io/badge/Code-000?style=flat-square&logo=github)](https://github.com/Ememzyvisuals/NaijaPrep) | [![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=netlify)](https://naijaprep.netlify.app) |
-| **StudentHub NG** | Online exam prep with streaks, analytics & community | [![GitHub](https://img.shields.io/badge/Code-000?style=flat-square&logo=github)](https://github.com/Ememzyvisuals/StudentHub-NG) | [![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://studenthub-ng.vercel.app) |
-| **NairaNest** | Modern Nigerian digital banking simulation | [![GitHub](https://img.shields.io/badge/Code-000?style=flat-square&logo=github)](https://github.com/Ememzyvisuals/NairaNest) | [![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=netlify)](https://nairanest.netlify.app) |
-| **StoreJet** | No-code store builder with WhatsApp integration | [![GitHub](https://img.shields.io/badge/Code-000?style=flat-square&logo=github)](https://github.com/Ememzyvisuals/StoreJet) | [![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=netlify)](https://storejet-ng.netlify.app) |
-| **AR Toluwani Store** | E-commerce storefront | [![GitHub](https://img.shields.io/badge/Code-000?style=flat-square&logo=github)](https://github.com/Ememzyvisuals/ar-toluwani-store) | [![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://ar-toluwani-store.vercel.app) |
+## Products
 
-**🤖 Automation & Bots**
+| Project | What it is | Links |
+|---|---|---|
+| **ClaudGPT** | Multi-agent platform where AI agents build full-stack apps together | [Code](https://github.com/Ememzyvisuals/Claudgpt) · [Live](https://claudgpt.vercel.app) |
+| **AethLife** | A personal life OS for habits, workouts and energy, guided by AI | [Code](https://github.com/Ememzyvisuals/Aethlife) · [Live](https://aethlife.vercel.app) |
+| **FlonexTV** | Streaming with a built-in learning academy | [Code](https://github.com/Ememzyvisuals/FlonexTV) · [Live](https://flonextv.vercel.app) |
+| **NaijaPrep** | Offline-first JAMB, WAEC and NECO prep that works on weak networks | [Code](https://github.com/Ememzyvisuals/NaijaPrep) · [Live](https://naijaprep.netlify.app) |
+| **StudentHub NG** | Exam prep with streaks, analytics and a community | [Code](https://github.com/Ememzyvisuals/studenthub-ng) · [Live](https://studenthub-ng.vercel.app) |
+| **StoreJet** | Build an online store in minutes, with WhatsApp checkout | [Code](https://github.com/Ememzyvisuals/storejet) · [Live](https://storejet-ng.netlify.app) |
+| **Lumeo AI** | A Telegram assistant: chat, images, payments and games | [Code](https://github.com/Ememzyvisuals/Lumeo-tel-bot) · [Bot](https://t.me/lumeoai_bot) |
+| **Microdragon** | A local-first CLI agent for terminal work, on npm | [Code](https://github.com/Ememzyvisuals/microdragon) |
 
-| Project | Description | GitHub | Live |
-|---------|-------------|--------|------|
-| **Lumeo AI** | AI Telegram bot — image gen, payments, games, multi-language | [![GitHub](https://img.shields.io/badge/Code-000?style=flat-square&logo=github)](https://github.com/Ememzyvisuals/lumeo-tel-bot) | [![Telegram](https://img.shields.io/badge/Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lumeoai_bot) |
-| **Microdragon** | CLI AI agent for automated terminal tasks | [![GitHub](https://img.shields.io/badge/Code-000?style=flat-square&logo=github)](https://github.com/Ememzyvisuals/Microdragon) | — |
+## Games
 
-**🧪 AI Research & Models**
+| Game | What it is |
+|---|---|
+| **Bùkà Hustle** | Start with a roadside bùkà in Lagos and grow it into a full restaurant. Free in the browser, no forced ads |
+| **LAST BUS** | 11:41 PM, Yaba, rainy season. The last danfo to Ikorodu. A first-person horror story |
 
-| Project | Type | Link |
-|---------|------|------|
-| **Africlaude-7B** | Open-source African language model | [![HF](https://img.shields.io/badge/HuggingFace-FF9D00?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/Axiveri/Africlaude-7B) |
-| **NaijaVox-V1** | Nigerian ASR — Yoruba · Hausa · Igbo · Pidgin · NG English | [![HF](https://img.shields.io/badge/HuggingFace-FF9D00?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/Axiveri/Naijavox-V1) |
-| **TruthGuard** | 120-question LLM metacognition benchmark | [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/ememzyvisuals/truthguard-benchmark-metacognition-evaluation) |
+Both are built with three.js, with characters modelled in Blender. [Play them on the portfolio](https://ememzyvisuals.vercel.app/games).
 
----
+## Stack
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=22&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=500&height=45&lines=🧬+Axiveri+—+African+AI+Research" alt="Axiveri" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,react,nextjs,nodejs,tailwind,threejs,blender,docker,postgres,supabase,firebase,vercel,git,linux,rust&perline=9" alt="Tech stack">
+</p>
 
-[![Visit Axiveri on HuggingFace](https://img.shields.io/badge/🤗_Visit_Axiveri_on_HuggingFace-FF9D00?style=for-the-badge)](https://huggingface.co/Axiveri)
-</div>
+## GitHub in numbers
 
-| Model | Type | Status | Languages |
-|-------|------|--------|-----------|
-| [Africlaude-7B](https://huggingface.co/Axiveri/Africlaude-7B) | Language Model | ✅ Live | General |
-| Africlaude-7B v2 | Language Model | 🔄 In Dev | Yoruba · Igbo · Hausa |
-| [NaijaVox-V1](https://huggingface.co/Axiveri/Naijavox-V1) | ASR / Speech | ✅ Live | Yoruba · Hausa · Igbo · Pidgin · NG English |
-| NaijaVox-V2 | ASR / Speech | 🔄 In Dev | Improved dataset · More languages |
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%">
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="32%">
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" width="32%">
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="32%">
+</p>
 
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=22&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=300&height=45&lines=🛠️+Tech+Stack" alt="Tech Stack" />
-</div>
-
-<div align="center">
-
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**AI & ML Engineering**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=flat-square&logo=huggingface&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-000000?style=flat-square&logo=openai&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=22&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=300&height=45&lines=📊+GitHub+Stats" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ememzyvisuals&show_icons=true&theme=default&title_color=000000&text_color=555555&icon_color=000000&border_color=e0e0e0&bg_color=ffffff&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ememzyvisuals&layout=compact&theme=default&title_color=000000&text_color=555555&border_color=e0e0e0&bg_color=ffffff&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Ememzyvisuals&theme=default&hide_border=false&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=888888&sideLabels=888888&dates=888888&background=ffffff" />
-
-</div>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=22&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=400&height=45&lines=🐍+Contribution+Snake" alt="Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution chart" width="100%" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ememzyvisuals/Ememzyvisuals/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ememzyvisuals/Ememzyvisuals/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Ememzyvisuals/Ememzyvisuals/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Ememzyvisuals/Ememzyvisuals/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ememzyvisuals&label=profile%20views&color=111111&style=flat-square" alt="Profile views">
+</p>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=18&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=⭐+If+you+find+my+work+useful%2C+a+star+goes+a+long+way!" alt="Star" />
-
-<br/>
-
-[![Email](https://img.shields.io/badge/ememzyvisuals@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ememzyvisuals@gmail.com)
-[![Portfolio](https://img.shields.io/badge/ememzyvisuals.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ememzyvisuals.vercel.app)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=14&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+the+future+from+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Open+source+%C2%B7+AI+%C2%B7+Products+that+matter" alt="Footer" />
-
-</div>
+<sub>Banner: pixel art from the CC0 "Lofi Breeze" pack on OpenGameArt, customised; lettering in Press Start 2P (SIL Open Font License).</sub>
