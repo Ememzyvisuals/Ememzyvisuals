@@ -114,8 +114,6 @@ def hud(big, i):
     d = ImageDraw.Draw(big)
     def t(x, y, s, sz, col):
         f = ImageFont.truetype(FONT, sz)
-        for ox, oy in ((-3, 0), (3, 0), (0, -3), (0, 3), (-3, -3), (3, 3), (-3, 3), (3, -3), (4, 5)):
-            d.text((x + ox, y + oy), s, font=f, fill=(6, 8, 20))
         d.text((x, y), s, font=f, fill=col)
     d = ImageDraw.Draw(big)
     t(48, 48, "HI, I'M EMMANUEL", 32, (255, 255, 255))
